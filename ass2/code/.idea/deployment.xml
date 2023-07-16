@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="V100">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zzq/s2snmt/code" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/zzq/s2snmt/table" local="$PROJECT_DIR$/../table" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="w301@cn-zz-bgp-8.natfrp.cloud:21238 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

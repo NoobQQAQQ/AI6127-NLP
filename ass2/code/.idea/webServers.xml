@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0ee0a77-7700-412d-a2b7-9292b0b0d85d" name="V100">
+        <fileTransfer rootFolder="/home/w301" accessType="SFTP" host="cn-hk-nf-1.natfrp.cloud" port="12003" sshConfigId="264a97c4-e4d4-45e9-9690-829c957339eb" sshConfig="w301@cn-hk-nf-1.natfrp.cloud:12003 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
